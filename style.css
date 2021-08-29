@@ -1,0 +1,513 @@
+body{
+    background-image:url(https://cdn.autobild.es/sites/navi.axelspringer.es/public/styles/480/public/media/image/2017/09/nissan-gt-r-nismo-vs-audi-r8-v10-plus.jpg?itok=RNpTsqdV)
+  }
+  MARQUEE{
+    font-size:60px;
+    color:gold;
+    background-color:red;
+    text-shadow:5px 5px black;
+  }
+  h1{
+    text-align:center;
+    color: orange;
+    
+  }
+  
+  .celda1{
+    background-color: green;
+  }
+  .celda2{
+    background-color: orange;
+  }
+  .celda3{
+    background-color: red;
+  }
+  .celda4{
+    background-color: gray;
+  }
+  .imagen1{
+    filter: blur(0.5px)
+  }
+  
+  .imagen2{
+    filter: brightness(100%);
+  }
+  .imagen3{
+    Filter:opacity(40%);
+  }
+  .imagen4{
+    filter: hue-rotate(15deg);
+  }
+  .imagen5{
+    filter: grayscale(60%);
+  }
+  .cadla200{ BACKGROUND-COLOR: GREY
+    
+    
+  }
+  body{
+    background-color: #424242;
+    color:#EDF5B6
+  }
+  h1{
+    text-align:center;
+      color:yellow;
+  }
+  table, td, th{
+    border:2px solid black;
+  }
+  table{
+    border-collapse:collapse;
+  }
+  th{
+    background:black;
+    color:white;
+  }
+  table li{
+    color:green;
+    font-family:helvetica;
+    text-align:left;
+  }
+  a{
+    color:yellow;
+  }
+  .country{
+    color:green;
+  }
+  table td{
+   text-align:center;
+  }body{
+    background-color: #424242;
+    color:#EDF5B6
+  }
+  h1{
+    text-align:center;
+      color:yellow;
+  }
+  table, td, th{
+    border:2px solid black;
+  }
+  table{
+    border-collapse:collapse;
+  }
+  th{
+    background:black;
+    color:white;
+  }
+  table li{
+    color:green;
+    font-family:helvetica;
+    text-align:left;
+  }
+  a{
+    color:yellow;
+  }
+  .country{
+    color:green;
+  }
+  table td{
+   text-align:center;
+  }body{
+    background-color: #424242;
+    color:#EDF5B6
+  }
+  h1{
+    text-align:center;
+      color:yellow;
+  }
+  table, td, th{
+    border:2px solid black;
+  }
+  table{
+    border-collapse:collapse;
+  }
+  th{
+    background:black;
+    color:white;
+  }
+  table li{
+    color:green;
+    font-family:helvetica;
+    text-align:left;
+  }
+  a{
+    color:yellow;
+  }
+  .country{
+    color:green;
+  }
+  table td{
+   text-align:center;
+  }body{
+    background-color: #424242;
+    color:#EDF5B6
+  }
+  h1{
+    text-align:center;
+      color:yellow;
+  }
+  table, td, th{
+    border:2px solid black;
+  }
+  table{
+    border-collapse:collapse;
+  }
+  th{
+    background:black;
+    color:white;
+  }
+  table li{
+    color:green;
+    font-family:helvetica;
+    text-align:left;
+  }
+  a{
+    color:yellow;
+  }
+  .country{
+    color:green;
+  }
+  table td{
+   text-align:center;
+  }body{
+    background-color: #424242;
+    color:#EDF5B6
+  }
+  h1{
+    text-align:center;
+      color:yellow;
+  }
+  table, td, th{
+    border:2px solid black;
+  }
+  table{
+    border-collapse:collapse;
+  }
+  th{
+    background:black;
+    color:white;
+  }
+  table li{
+    color:green;
+    font-family:helvetica;
+    text-align:left;
+  }
+  a{
+    color:yellow;
+  }
+  .country{
+    color:green;
+  }
+  table td{
+   text-align:center;
+  }body{
+    background-color: #424242;
+    color:#EDF5B6
+  }
+  h1{
+    text-align:center;
+      color:yellow;
+  }
+  table, td, th{
+    border:2px solid black;
+  }
+  table{
+    border-collapse:collapse;
+  }
+  th{
+    background:black;
+    color:white;
+  }
+  table li{
+    color:green;
+    font-family:helvetica;
+    text-align:left;
+  }
+  a{
+    color:yellow;
+  }
+  .country{
+    color:green;
+  }
+  table td{
+   text-align:center;
+  }body{
+    background-color: #424242;
+    color:#EDF5B6
+  }
+  h1{
+    text-align:center;
+      color:yellow;
+  }
+  table, td, th{
+    border:2px solid black;
+  }
+  table{
+    border-collapse:collapse;
+  }
+  th{
+    background:black;
+    color:white;
+  }
+  table li{
+    color:green;
+    font-family:helvetica;
+    text-align:left;
+  }
+  a{
+    color:yellow;
+  }
+  .country{
+    color:green;
+  }
+  table td{
+   text-align:center;
+  }body{
+    background-color: #424242;
+    color:#EDF5B6
+  }
+  h1{
+    text-align:center;
+      color:yellow;
+  }
+  table, td, th{
+    border:2px solid black;
+  }
+  table{
+    border-collapse:collapse;
+  }
+  th{
+    background:black;
+    color:white;
+  }
+  table li{
+    color:green;
+    font-family:helvetica;
+    text-align:left;
+  }
+  a{
+    color:yellow;
+  }
+  .country{
+    color:green;
+  }
+  table td{
+   text-align:center;
+  }body{
+    background-color: #424242;
+    color:#EDF5B6
+  }
+  h1{
+    text-align:center;
+      color:yellow;
+  }
+  table, td, th{
+    border:2px solid black;
+  }
+  table{
+    border-collapse:collapse;
+  }
+  th{
+    background:black;
+    color:white;
+  }
+  table li{
+    color:green;
+    font-family:helvetica;
+    text-align:left;
+  }
+  a{
+    color:yellow;
+  }
+  .country{
+    color:green;
+  }
+  table td{
+   text-align:center;
+  }body{
+    background-color: #424242;
+    color:#EDF5B6
+  }
+  h1{
+    text-align:center;
+      color:yellow;
+  }
+  table, td, th{
+    border:2px solid black;
+  }
+  table{
+    border-collapse:collapse;
+  }
+  th{
+    background:black;
+    color:white;
+  }
+  table li{
+    color:green;
+    font-family:helvetica;
+    text-align:left;
+  }
+  a{
+    color:yellow;
+  }
+  .country{
+    color:green;
+  }
+  table td{
+   text-align:center;
+  }body{
+    background-color: #424242;
+    color:#EDF5B6
+  }
+  h1{
+    text-align:center;
+      color:yellow;
+  }
+  table, td, th{
+    border:2px solid black;
+  }
+  table{
+    border-collapse:collapse;
+  }
+  th{
+    background:black;
+    color:white;
+  }
+  table li{
+    color:green;
+    font-family:helvetica;
+    text-align:left;
+  }
+  a{
+    color:yellow;
+  }
+  .country{
+    color:green;
+  }
+  table td{
+   text-align:center;
+  }body{
+    background-color: #424242;
+    color:#EDF5B6
+  }
+  h1{
+    text-align:center;
+      color:yellow;
+  }
+  table, td, th{
+    border:2px solid black;
+  }
+  table{
+    border-collapse:collapse;
+  }
+  th{
+    background:black;
+    color:white;
+  }
+  table li{
+    color:green;
+    font-family:helvetica;
+    text-align:left;
+  }
+  a{
+    color:yellow;
+  }
+  .country{
+    color:green;
+  }
+  table td{
+   text-align:center;
+  }body{
+    background-color: #424242;
+    color:#EDF5B6
+  }
+  h1{
+    text-align:center;
+      color:yellow;
+  }
+  table, td, th{
+    border:2px solid black;
+  }
+  table{
+    border-collapse:collapse;
+  }
+  th{
+    background:black;
+    color:white;
+  }
+  table li{
+    color:green;
+    font-family:helvetica;
+    text-align:left;
+  }
+  a{
+    color:yellow;
+  }
+  .country{
+    color:green;
+  }
+  table td{
+   text-align:center;
+  }body{
+    background-color: #424242;
+    color:#EDF5B6
+  }
+  h1{
+    text-align:center;
+      color:yellow;
+  }
+  table, td, th{
+    border:2px solid black;
+  }
+  table{
+    border-collapse:collapse;
+  }
+  th{
+    background:black;
+    color:white;
+  }
+  table li{
+    color:green;
+    font-family:helvetica;
+    text-align:left;
+  }
+  a{
+    color:yellow;
+  }
+  .country{
+    color:green;
+  }
+  table td{
+   text-align:center;
+  }body{
+    background-color: #424242;
+    color:#EDF5B6
+  }
+  h1{
+    text-align:center;
+      color:yellow;
+  }
+  table, td, th{
+    border:2px solid black;
+  }
+  table{
+    border-collapse:collapse;
+  }
+  th{
+    background:black;
+    color:white;
+  }
+  table li{
+    color:green;
+    font-family:helvetica;
+    text-align:left;
+  }
+  a{
+    color:yellow;
+  }
+  .country{
+    color:green;
+  }
+  table td{
+   text-align:center;
+  }
